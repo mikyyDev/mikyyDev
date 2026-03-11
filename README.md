@@ -3,7 +3,7 @@
 🎓 Information Science Student  
 💻 Aspiring Full Stack Developer | Frontend Focused |AI  Enthusiast | AI Learner  
 
----
+
 
 ## 🚀 About Me
 
@@ -12,13 +12,11 @@ building modern web applications and exploring new technologies. I enjoy working
 functionality, and real-world impact.
 I enjoy building projects that combine **programming, data, and real-world problem solving**.  
 
----
 
 ## 🧠 What I'm Currently Learning
 
 -Currently I am focused on improving my skills in Frontend Development, AI integration, and Full-Stack Development
 
----
 
 ## 💻 Tech Stack
 
@@ -41,7 +39,7 @@ I enjoy building projects that combine **programming, data, and real-world probl
  - AI applications
 
 
----
+
 
 ##📌 Projects
 
@@ -56,7 +54,6 @@ A Retrieval-Augmented Generation assistant that answers questions about Addis Ab
 
 More projects coming soon 🚀
 
----
 
 
 
@@ -66,6 +63,6 @@ More projects coming soon 🚀
 - LinkedIn: https://www.linkedin.com/in/michael-alula/
 - Email: michaelalula05@gmail.com
 
----
+
 
 ⭐ Feel free to explore my repositories and follow my journey as I continue learning and building.
