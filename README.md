@@ -24,7 +24,6 @@ const michael = {
   focus: ["Frontend Development", "Full Stack", "AI Integration"],
   building: "Travel Agency Dashboard + more...",
   askMeAbout: ["React", "Python", "AI apps", "Clean UI"],
-  funFact: "I turn coffee into code ☕"
 };
 ```
 
