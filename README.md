@@ -1,66 +1,20 @@
-<!-- HEADER -->
 <div align="center">
 
-```
-$ Information Science Student → Full Stack Dev → AI Enthusiast
-```
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Michael%20Alula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Information%20Science%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-# Michael Alula
+<!-- BADGES -->
+[![GitHub followers](https://img.shields.io/github/followers/mikyyDev?label=Follow&style=social)](https://github.com/mikyyDev)
+[![LinkedIn](https://img.shields.io/badge/-Michael%20Alula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-alula/)](https://www.linkedin.com/in/michael-alula/)
+[![Email](https://img.shields.io/badge/-michaelalula05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:michaelalula05@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-mikyyDev-1D9E75?style=flat-square&logo=github&logoColor=white)](https://github.com/mikyyDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michael--alula-7F77DD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-alula/)
-[![Email](https://img.shields.io/badge/Email-michaelalula05@gmail.com-378ADD?style=flat-square&logo=gmail&logoColor=white)](mailto:michaelalula05@gmail.com)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+the+web+one+commit+at+a+time;Frontend+%7C+Full+Stack+%7C+AI+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-I'm an Information Science student passionate about building products that combine **clean UI**, **practical functionality**, and **real-world impact**. I'm on a journey from student to full-stack developer — one project at a time.
-
-> Currently focused on: Frontend development · AI integration · Full-stack engineering
-
----
-
-## Tech Stack
-
-**Languages**
-`HTML` `CSS` `JavaScript` `React` `Python` `PHP`
-
-**Tools & Technologies**
-`Git & GitHub` `FastAPI` `VS Code` `RAG` `AI APIs`
-
----
-
-## Selected Projects
-
-**01 — Travel Agency Dashboard**
-Full-stack SaaS dashboard for travel agencies — client management, bookings, and AI-powered itinerary generation.
-`React` `FastAPI` `AI`
-
----
-
-**02 — AI & RAG Assistant (AAU Project)**
-Retrieval-Augmented Generation assistant that answers questions about Addis Ababa University from uploaded documents.
-`Python` `RAG` `NLP`
-
----
-
-**03 — Static Portfolio Website**
-Responsive personal site with clean UI design built with vanilla HTML, CSS, and JavaScript.
-`HTML` `CSS` `JavaScript`
-
-> More projects in progress 🚀
-
----
-
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikyyDev&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-<div align="center">
-  <sub>Open to collaborations, feedback, and interesting conversations.</sub>
-</div>
+```javascript
