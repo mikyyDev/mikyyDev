@@ -1,68 +1,66 @@
-# 👋 Hi, I'm Michael Alula
+<!-- HEADER -->
+<div align="center">
 
-🎓 Information Science Student  
-💻 Aspiring Full Stack Developer | Frontend Focused |AI  Enthusiast | AI Learner  
+```
+$ Information Science Student → Full Stack Dev → AI Enthusiast
+```
 
+# Michael Alula
 
+[![GitHub](https://img.shields.io/badge/GitHub-mikyyDev-1D9E75?style=flat-square&logo=github&logoColor=white)](https://github.com/mikyyDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michael--alula-7F77DD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-alula/)
+[![Email](https://img.shields.io/badge/Email-michaelalula05@gmail.com-378ADD?style=flat-square&logo=gmail&logoColor=white)](mailto:michaelalula05@gmail.com)
 
-## 🚀 About Me
+</div>
 
-I am an Information Science student passionate about technology, problem-solving, and continuous learning. Passionate developer interested in 
-building modern web applications and exploring new technologies. I enjoy working on projects that combine clean UI, practical
-functionality, and real-world impact.
-I enjoy building projects that combine **programming, data, and real-world problem solving**.  
+---
 
+## About
 
-## 🧠 What I'm Currently Learning
+I'm an Information Science student passionate about building products that combine **clean UI**, **practical functionality**, and **real-world impact**. I'm on a journey from student to full-stack developer — one project at a time.
 
--Currently I am focused on improving my skills in Frontend Development, AI integration, and Full-Stack Development
+> Currently focused on: Frontend development · AI integration · Full-stack engineering
 
+---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
-- HTML
-- CSS
-- JavaScript
-- react
+`HTML` `CSS` `JavaScript` `React` `Python` `PHP`
 
 **Tools & Technologies**
-- Git & GitHub
-- python 
-- FastAPI
-- VS Code
-- php
+`Git & GitHub` `FastAPI` `VS Code` `RAG` `AI APIs`
 
-**Other Interests**
--Software Engineering
-- Data analysis
- - AI applications
+---
 
+## Selected Projects
 
+**01 — Travel Agency Dashboard**
+Full-stack SaaS dashboard for travel agencies — client management, bookings, and AI-powered itinerary generation.
+`React` `FastAPI` `AI`
 
+---
 
-##📌 Projects
+**02 — AI & RAG Assistant (AAU Project)**
+Retrieval-Augmented Generation assistant that answers questions about Addis Ababa University from uploaded documents.
+`Python` `RAG` `NLP`
 
-🔹 Travel Agency Dashboard
-A full-stack SaaS-style dashboard designed for travel agencies to manage clients, bookings, and generate travel itineraries using AI.
+---
 
-🔹 Static Portfolio Website
-A responsive website built with HTML, CSS, and JavaScript focusing on clean UI design.
+**03 — Static Portfolio Website**
+Responsive personal site with clean UI design built with vanilla HTML, CSS, and JavaScript.
+`HTML` `CSS` `JavaScript`
 
-🔹 AI & RAG Assistant (AAU Project)
-A Retrieval-Augmented Generation assistant that answers questions about Addis Ababa University using uploaded documents.
+> More projects in progress 🚀
 
-More projects coming soon 🚀
+---
 
+## Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikyyDev&show_icons=true&theme=default&hide_border=true&count_private=true)
 
+---
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/mikyyDev
-- LinkedIn: https://www.linkedin.com/in/michael-alula/
-- Email: michaelalula05@gmail.com
-
-
-
-⭐ Feel free to explore my repositories and follow my journey as I continue learning and building.
+<div align="center">
+  <sub>Open to collaborations, feedback, and interesting conversations.</sub>
+</div>
