@@ -69,8 +69,6 @@ const michael = {
 ![Groq](https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logo=groq&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
-
 ## 📌 Featured Projects
 
 <table>
