@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 ```javascript
@@ -26,8 +24,6 @@ const michael = {
   askMeAbout: ["React", "Python", "AI apps", "Clean UI"],
 };
 ```
-
----
 
 ## 🚀 Tech Stack
 
@@ -98,8 +94,6 @@ const michael = {
   </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -111,8 +105,6 @@ const michael = {
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mikyyDev&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 <div align="center">
 
