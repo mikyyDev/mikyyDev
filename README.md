@@ -94,15 +94,7 @@ const michael = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyyDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyyDev&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mikyyDev&theme=tokyonight&hide_border=true)
-
-</div>
 
 <div align="center">
 
@@ -113,7 +105,5 @@ const michael = {
 [![GitHub](https://img.shields.io/badge/GitHub-mikyyDev-181717?style=for-the-badge&logo=github)](https://github.com/mikyyDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Alula-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-alula/)
 [![Email](https://img.shields.io/badge/Email-michaelalula05@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:michaelalula05@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
